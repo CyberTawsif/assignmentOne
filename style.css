@@ -1,0 +1,91 @@
+body {
+    font-family: 'Noto Serif', serif;
+    margin: 0%;
+}
+
+.headingSection {
+    text-align: center;
+}
+
+body h1 {
+    font-size: 50px;
+}
+
+.headingSection h1 {
+    padding: 100px 10px 0px 10px;
+    color: white;
+}
+
+.headingSection p {
+    padding: 0px 300px 50px 300px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.button {
+    text-decoration: none;
+    background-color: rgb(255, 111, 71);
+    border-radius: 5px;
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    font-size: 120%;
+
+}
+
+#headingBackground {
+    background-image: url(/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1750px;
+    height: 500px;
+
+}
+
+.donatetoday {
+    text-align: center;
+}
+
+.donatetoday p {
+    padding: 0px 300px 50px 300px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.donatetoday h1 {
+    font-size: 50px;
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+
+.takaAmount {
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 30px 40px;
+    color: rgb(128, 128, 128);
+    font-weight: 700;
+    font-size: 150%;
+
+}
+
+#twohundredtaka {
+    background-color: rgba(255, 182, 193, 0.414);
+    color: rgb(228, 101, 122);
+    border: 3px solid rgb(228, 101, 122);
+}
+
+#input {
+    padding: 15px;
+    margin-bottom: 40px;
+    border: none;
+    border-bottom: 2px solid rgb(191, 177, 177);
+    width: 40%;
+    text-align: center;
+    font-size: 110%;
+}
